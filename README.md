@@ -1,6 +1,10 @@
 # Basketball-Stats-Tracker
-Application to track basketball statistics
 
+An application to track basketball statistics.
+
+## Directory Structure
+
+```plaintext
 basketball_stats_tracker/
 ├── app/
 │   ├── __init__.py          # Initializes the app and its configurations
@@ -27,4 +31,3 @@ basketball_stats_tracker/
 ├── requirements.txt         # List of Python dependencies
 ├── README.md                # Project overview and instructions
 ├── run.py                   # Main script to run the Flask/Django app
-
